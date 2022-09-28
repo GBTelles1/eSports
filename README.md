@@ -1,2 +1,2 @@
 # eSports
-A easy way to find your duo on your favorite game
+An easy way to find your duo on your favorite game
